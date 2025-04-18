@@ -14,7 +14,7 @@ The todoist windows app felt really bulky since I just use it for its quick add 
 5. Beware that this script though fully functional can't replicate the todoist quick add windows completely.
 
 # Quirks
-1. It doesn't shift to the drop down for using arrow keys, you can use tab or mouse or touchpad to navigate, I was initially going for this but then thought to keep it in a way where I just type and the drop down shows suggestions which get inputted in the main text field when pressing enter.
+1. It doesn't shift focus to the drop down for using arrow keys, you can use tab or mouse or touchpad to navigate, I was initially going for this but then thought to keep it in a way where I just type and the drop down shows suggestions which get inputted in the main text field when pressing enter.
 2. It will give a popup that task added on successful sending of task to the todoist api endpoint, I used the one where natural language processing is enabled so when you input mon, or any other stuff that works in todoist it will work here too, there was another endpoint where just the raw text was placed in the inbox as a task without NLP which I don't think is better for use here.
 3. Used a dark theme, I abhor light themes. Just change the color hexcodes for the text and all if you want light theme.
 
