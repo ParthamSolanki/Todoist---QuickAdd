@@ -1,5 +1,10 @@
 # Why?
-The todoist windows app felt really bulky since I just use it for its quick add functionality, that Ctrl+Space which open a window to quickly add task.
+The todoist windows app felt really bulky since I just use it for its quick add functionality, that Ctrl+Space which opens a window to quickly add task.
+
+# How it looks?
+![](https://i.imgur.com/VEGaYfI.png)
+![](https://i.imgur.com/jaZCqGl.png)
+![](https://i.imgur.com/5YoNbtg.png)
 
 # How it works?
 1. You store you todoist api key in a text file named "api_token.txt", you can use any name but you will have to change that in the script too. The todoist api key can be found in Todoist Settings > Integrations > Developer > Copy API token
